@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DartDeserialize/1.0.0": {
+        "dependencies": {
+          "ELFSharp": "2.11.0"
+        },
+        "runtime": {
+          "DartDeserialize.dll": {}
+        }
+      },
+      "ELFSharp/2.11.0": {
+        "runtime": {
+          "lib/netstandard2.0/ELFSharp.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DartDeserialize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ELFSharp/2.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f0UBqgn458yndHBXBkBvJJhevFuxQZDe4j5HquA7lKSdge1ELZVnTDucDhDiESnK5CSDxut0J9+gbiNNrlGDPQ==",
+      "path": "elfsharp/2.11.0",
+      "hashPath": "elfsharp.2.11.0.nupkg.sha512"
+    }
+  }
+}

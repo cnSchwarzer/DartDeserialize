@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+srEHdGgyEO4Y5PARmb4rJD1gLK2XtKp/gItPNJBX2v3r/gbV2nPSFh+k0E5R/hAfVI4uQrsul7/tP3IFDRtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cnsch\\source\\repos\\DartDeserialize\\DartDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cnsch\\.nuget\\packages\\elfsharp\\2.11.0\\elfsharp.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

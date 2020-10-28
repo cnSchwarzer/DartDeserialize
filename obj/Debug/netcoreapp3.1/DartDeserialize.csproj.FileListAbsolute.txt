@@ -1,0 +1,15 @@
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\DartDeserialize.exe
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.csprojAssemblyReference.cache
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.AssemblyInfoInputs.cache
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.AssemblyInfo.cs
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\DartDeserialize.deps.json
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\DartDeserialize.runtimeconfig.json
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\DartDeserialize.runtimeconfig.dev.json
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\DartDeserialize.dll
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\DartDeserialize.pdb
+C:\Users\cnsch\source\repos\DartDeserialize\bin\Debug\netcoreapp3.1\ELFSharp.dll
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.csproj.CopyComplete
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.dll
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.pdb
+C:\Users\cnsch\source\repos\DartDeserialize\obj\Debug\netcoreapp3.1\DartDeserialize.genruntimeconfig.cache
