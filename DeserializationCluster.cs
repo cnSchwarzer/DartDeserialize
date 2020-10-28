@@ -229,7 +229,7 @@ namespace DartDeserialize
 
                 if (f.nameString.Contains("checkFlag"))
                 {
-                    Debugger.Break();
+                     Debugger.Break();
                 }
 
                 f.owner = s.Metadata.ReadRef(env);

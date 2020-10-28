@@ -27,8 +27,15 @@ namespace DartDeserialize
         {
             BinaryReader br = new BinaryReader(new MemoryStream(bytes));
 
-            br.ReadInt64();
+            if (env.Is64Bit)
+                br.ReadInt64();
+            else
+                br.ReadInt32();
             long length = (env.Is64Bit ? br.ReadInt64() : br.ReadInt32()) / 2;
+
+            if (!env.Is64Bit) 
+                br.ReadInt32();
+
             string str = Encoding.UTF8.GetString(br.ReadBytes((int)length));
 
             br.Close();
